@@ -1,4 +1,4 @@
-# Icosahedron - 3d space in three dimensional LED projection
+# Icosahedron - 3D space in multidimension LED projection
 
 ## Authors
 - Tim, Tavlintsev, https://github.com/techtim
