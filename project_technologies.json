@@ -1,16 +1,22 @@
 {
     "technologies": {
         "apis": [
-            "insert apis"
+            ""
         ],
         "platforms": [
-            "insert platforms"
+            "mac os",
+            "android",
+            "raspberry pi"
         ],
         "toolkits": [
-            "insert toolkits"
+            "openframeworks",
+            "opencv",
+            "opengl"
         ]
     },
     "themes": [
-        "insert themes"
+        "Virtual Reality",
+        "Light",
+        "Interaction"
     ]
 }
