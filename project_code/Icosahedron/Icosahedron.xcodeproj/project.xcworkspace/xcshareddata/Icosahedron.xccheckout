@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>161AF9D5-6361-46ED-9CCC-F8BAFFB5760A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Icosahedron</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>76459439-100E-47D2-AD4A-18D15FB2282E</key>
+		<string>https://github.com/ofZach/ofxMeshUtils.git</string>
+		<key>9C4C9D20-1F51-4CEB-BF98-0EA6129185D4</key>
+		<string>ssh://github.com/techtim/icosahedron.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Icosahedron.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>76459439-100E-47D2-AD4A-18D15FB2282E</key>
+		<string>../../../../../addons/ofxMeshUtils</string>
+		<key>9C4C9D20-1F51-4CEB-BF98-0EA6129185D4</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/techtim/icosahedron.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9C4C9D20-1F51-4CEB-BF98-0EA6129185D4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9C4C9D20-1F51-4CEB-BF98-0EA6129185D4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>IcosahedronII</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>76459439-100E-47D2-AD4A-18D15FB2282E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofxMeshUtils</string>
+		</dict>
+	</array>
+</dict>
+</plist>

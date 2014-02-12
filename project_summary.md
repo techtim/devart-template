@@ -1,8 +1,7 @@
-# Project Title
-Icosahedron - virtual 3d space in three dimensional LED projection
+# Icosahedron - 3d space in three dimensional LED projection
 
 ## Authors
-- Tim, Tavlintsev, techtim
+- Tim, Tavlintsev, https://github.com/techtim
 
 ## Description
 Research of possibility of creating physical space, where virtual 3D scene will cross reality, not in usual 2D projection, but in three dimensional physical space. Virtual space creates in custom made software using openFrameworks. Space consists Icosahedron object itself with simple geometric shapes (pyramids, spheres, cubes, etc.) that moves around and deforms, depending on real word factors, for example sounds or human position inside space. On the real object light appears in places where shapes cross wireframe of virtual Icosahedron. Audience dive into space that never exists before. And it's interesting to explore how this 3d space can interact and deliver emotional feedback to audience inside it.
