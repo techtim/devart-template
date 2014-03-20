@@ -1,13 +1,16 @@
 # Icosahedron
 
 ## Authors
-- Tim, Tavlintsev, https://github.com/techtim
+- Tim Tavlintsev, https://github.com/techtim
+- Anton Podkopaev
 
 ## Description
-Research of possibility of creating physical space, where virtual 3D scene will cross reality, not in usual 2D projection, but in three dimensional physical space. Virtual space creates in custom made software using openFrameworks. Space consists Icosahedron object itself with simple geometric shapes (pyramids, spheres, cubes, etc.) that moves around and deforms, depending on real word factors, for example sounds or human position inside space. On the real object light appears in places where shapes cross wireframe of virtual Icosahedron. Audience dive into space that never exists before. And it's interesting to explore how this 3d space can interact and deliver emotional feedback to audience inside it.
+Research of possibility of creating physical space, where virtual 3D scene will cross reality, not in usual 2D projection, but in three dimensional physical space. Virtual space creates in custom made software using openFrameworks. Space consists Icosahedron object itself with simple geometric shapes (pyramids, spheres, cubes, etc.) that moves around and deforms, depending on real word factors, for example sounds or human position inside space. On the real object light appears in places where shapes cross wireframe of virtual Icosahedron. Audience dive into the space that never exists before, becouse light forms our perceive of it. Interesting to explore how this 3d space can interact and deliver emotional feedback to audience inside it.
 
 ## Link to Prototype
 [Project Page](http://tvl.io/project/projecticosahedron "Project Page")
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/3AoSZ6N3uQk?list=UUUMPgeNiY0WnSZCiyxHOquQ" frameborder="0" allowfullscreen></iframe>
 
 ## Example Code
 Capturing of sides states uses OpenGl Stencil buffer to cut scene with Icosahedron volume
@@ -40,6 +43,13 @@ void testApp::drawInIco() {
     
 }
 ```
+
+
+[openFrameworks](https://github.com/openframeworks/openFrameworks "openFrameworks")
+[ofxOsc](https://github.com/roxlu/ofxOsc "ofxOsc")
+[ofxKinect](https://github.com/ofTheo/ofxKinect‎ "ofxKinect‎")
+[ofxCv](https://github.com/kylemcdonald/ofxCv "ofxCv")
+[OpenCV](https://github.com/Itseez/opencv "OpenCV")
 
 ## Images & Videos
 
