@@ -1,23 +1,24 @@
 {
     "technologies": {
         "apis": [
-            ""
+            "C++",
+            "C",
         ],
         "platforms": [
-            "mac os",
+            "OSX",
             "android",
-            "raspberry pi"
+            "Raspberry Pi"
         ],
         "toolkits": [
-            "openframeworks",
-            "opencv",
-            "opengl"
+            "openFrameworks",
+            "OpenCV",
+            "OpenGL",
+            "Kinect"
         ]
     },
     "themes": [
         "Virtual Reality",
         "Light",
         "Interaction",
-        "Kinect"
     ]
 }
