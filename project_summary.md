@@ -55,4 +55,5 @@ void testApp::drawInIco() {
 ![People inside](project_images/ico-hand.jpg?raw=true "People dancing inside")
 ![People siting](project_images/ico-people.jpg?raw=true "People sitting inside")
 ![Icosahedron on dancefloor](http://tvl.io/i/project/projecticosahedron/70180_icoauxwide.jpeg?raw=true "Icosahedron on dancefloor")
-![project:Icosahedron]](www.youtube.com/embed/3AoSZ6N3uQk?list=UUUMPgeNiY0WnSZCiyxHOquQ "project:Icosahedron video")
+![project Icosahedron](http://www.youtube.com/embed/3AoSZ6N3uQk?list=UUUMPgeNiY0WnSZCiyxHOquQ "project:Icosahedron video")
+
