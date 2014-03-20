@@ -10,8 +10,6 @@ Research of possibility of creating physical space, where virtual 3D scene will 
 ## Link to Prototype
 [Project Page](http://tvl.io/project/projecticosahedron "Project Page")
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/3AoSZ6N3uQk?list=UUUMPgeNiY0WnSZCiyxHOquQ" frameborder="0" allowfullscreen></iframe>
-
 ## Example Code
 Capturing of sides states uses OpenGl Stencil buffer to cut scene with Icosahedron volume
 ```
@@ -57,3 +55,4 @@ void testApp::drawInIco() {
 ![People inside](project_images/ico-hand.jpg?raw=true "People dancing inside")
 ![People siting](project_images/ico-people.jpg?raw=true "People sitting inside")
 ![Icosahedron on dancefloor](http://tvl.io/i/project/projecticosahedron/70180_icoauxwide.jpeg?raw=true "Icosahedron on dancefloor")
+![project:Icosahedron]](www.youtube.com/embed/3AoSZ6N3uQk?list=UUUMPgeNiY0WnSZCiyxHOquQ "project:Icosahedron video")
