@@ -3,6 +3,7 @@
         "apis": [
             "C++",
             "C",
+            "Google Search"
         ],
         "platforms": [
             "OSX",
