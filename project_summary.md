@@ -53,14 +53,14 @@ void testApp::drawInIco() {
 
 http://www.youtube.com/watch?v=3AoSZ6N3uQk
 
-![Icosahedron](project_images/cover.jpg?raw=true "Icosahedron")
 ![People inside](project_images/ico-hand.jpg?raw=true "People dancing inside")
 ![People siting](project_images/ico-people.jpg?raw=true "People sitting inside")
-![Icosahedron on dancefloor](http://tvl.io/i/project/projecticosahedron/70180_icoauxwide.jpeg?raw=true "Icosahedron on dancefloor")
+![Icosahedron on dancefloor](project_images/ico-red-white.jpg?raw=true "Icosahedron on dancefloor")
 ![Man standing in light](project_images/ico-orange.jpg?raw=true "Man standing in light")
+![People around](project_images/ico-AUX.jpg "People around")
 
 ## Conclusion
 
-Working on this project, I've spent third part of time Googling, I didn't have anybody near who could answer my questions, I didn't know even how to use OpenGL or what kind of technologies to use. I was searching, reading and searching again, aggregating knowledge and technologies in my head. So I can say that main instrument for creating Icosahedron was Google Search and my head. Don't know is it bad that I din't use any of API's, and don't want to, because this installation serves the moment and space it standing in, here and now.
+Working on this project I've spent third part of the time Googling, I didn't have anybody near who could answer my questions, I didn't know even how to use OpenGL or what kind of technologies to use. I was searching, reading and searching again, aggregating knowledge and technologies in my head. So I can say that main instrument for creating Icosahedron was Google Search and of course my head. Xperia Z with Andriod was used for additional control with OSC.
 
 
