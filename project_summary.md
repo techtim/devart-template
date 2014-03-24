@@ -11,7 +11,7 @@ Research of possibility of creating physical space, where virtual 3D scene will 
 [Project Page](http://tvl.io/project/projecticosahedron "Project Page")
 
 ## Example Code
-Capturing of sides states uses OpenGl Stencil buffer to cut scene with Icosahedron volume
+Capturing of sides states uses OpenGl Stencil buffer to cut scene with icosahedron volume
 ```
 void testApp::drawInIco() {
     glClear(GL_DEPTH_BUFFER_BIT);
@@ -60,7 +60,11 @@ http://www.youtube.com/watch?v=3AoSZ6N3uQk
 ![People around](project_images/ico-AUX.jpg "People around")
 
 ## Conclusion
+Working on this project I've spent the third part of the time Googling, I didn't have anybody near who could answer my questions, I didn't know how to use OpenGL or what kind of technologies to use. I was searching, reading and searching again, aggregating knowledge and technologies in my head. It took me about half of a year on researching and learning. Google Search was one of the main instruments for creating Icosahedron. Xperia Z with Andriod was used for additional OSC control. Don't think that the full potential of the idea was realised. The club wasn't the best location for installation, too much additional light outside the object and the audience concentrated on music. Small amount of time didn't offer me callibrate everything and explore available possibilities, the installation lived only for 12 hours while the party was going on.
 
-Working on this project I've spent third part of the time Googling, I didn't have anybody near who could answer my questions, I didn't know even how to use OpenGL or what kind of technologies to use. I was searching, reading and searching again, aggregating knowledge and technologies in my head. So I can say that main instrument for creating Icosahedron was Google Search and of course my head. Xperia Z with Andriod was used for additional control with OSC.
-
-
+## Further development
+Place Icosahedron in the dark space where only the object itself produces light.
+Advanced interaction between the visitors and the virtual objects with feedback in the form of light and sound.
+Few microphones to listen to the environment.
+Additional sound design for Icosahedrons virtual events.
+All this will provide full immersion of the audience into the place where virtual space crosses reality.

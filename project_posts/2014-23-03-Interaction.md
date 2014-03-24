@@ -1,6 +1,6 @@
 ## Interaction
 
-To create interaction with visitors of the objects space was planned to use Kinects, placed in the top triangle of icosahedron. After tests found out that 2 Kinects would be enough to grab all needed space. Create standalone app to detect people coming inside object, based on one of examples from ofxCV addon (https://github.com/kylemcdonald/ofxCv) and ofxCv::ContourFinder class with some modifications. App transfers data about people position to main app using OSC, in Icosahedron app data are interpreting to right GL positions. This coordinates creates spheres around visitors.
+To create an interaction with the visitors of the objects space, it was planned to use Kinects, placed in the top triangle of icosahedron. After tests it was found out that 2 Kinects would be enough to grab all the needed space. Standalone app to detect people coming inside the object was created. It is based on one of examples from ofxCV addon (https://github.com/kylemcdonald/ofxCv) and ofxCv::ContourFinder class with some modifications. App transfers data about people position to main app using OSC, in Icosahedron app data are interpreting to right GL positions. These coordinates create spheres around the visitors.
 
 ![contourFinder](../project_images/contourFinderScreen.png "contourFinder")
 
@@ -8,6 +8,6 @@ contourFinder app can be found in project_code folder.
 
 In further development, going to get 4 farthest points from the center of detected man's contour to add precice to interaction with virtual space.
 
-Ableton and max4live patch Livegrabber (http://showsync.info/index.php/tools/livegrabber/) was used to manage audio input and sent controlling data to Icosahedron app via OSC. The Livegrabber plugins are a set of free Max For Live plugins that send actions from Ableton Live to any device on the network that supports Open Sound Control (OSC). This pack contains AnalysisGrabber, tool for analysing frequency response and ability to send each parameters data on configurable address. Low, Mid and Hi values was routed to colors alpha channel in Icosahedron app. Trig functions was used for triggering events.
+Ableton and max4live patch Livegrabber (http://showsync.info/index.php/tools/livegrabber/) was used to manage the audio input and sent the controlling data to Icosahedron app via OSC. The Livegrabber plugins are a set of free Max For Live plugins, they send actions from Ableton Live to any device on the network that supports Open Sound Control (OSC). This pack contains AnalysisGrabber, a tool for analysing frequency response and with ability to send each parameters data on the configurable address. Low, Mid and Hi values were routed to colors alpha channel in Icosahedron app. Trig functions were used for triggering events.
 
 ![Livegrabber](../project_images/analysis_grabber.png "Livegrabber")
