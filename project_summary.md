@@ -5,7 +5,7 @@
 - Anton Podkopaev
 
 ## Description
-Research of possibility of creating physical space, where virtual 3D scene will cross reality, not in usual 2D projection, but in three dimensional physical space. Virtual space creates in custom made software using openFrameworks. Space consists Icosahedron object itself with simple geometric shapes (pyramids, spheres, cubes, etc.) that moves around and deforms, depending on real word factors, for example sounds or human position inside space. On the real object light appears in places where shapes cross wireframe of virtual Icosahedron. Audience dive into the space that never exists before, becouse light forms our perceive of it. Interesting to explore how this 3d space can interact and deliver emotional feedback to audience inside it.
+Research of possibility of creating physical space, where virtual 3D scene will cross reality not in usual 2D projection, but in three dimensional physical space. Virtual space creates in the custom made software using openFrameworks. The space consists of icosahedron object and simple geometric shapes (pyramids, spheres, cubes, etc.) that moves around and deforms depending on the real word factors, for example sounds or human position inside space. On the real object light appears in places where shapes cross wireframe of virtual Icosahedron. The audience dives into the space that never exists before where light forms perception with the help of 2400 RGB LED. It is interesting to explore how this 3D space can interact and deliver emotional feedback to the audience inside it.
 
 ## Link to Prototype
 [Project Page](http://tvl.io/project/projecticosahedron "Project Page")
@@ -57,14 +57,14 @@ http://www.youtube.com/watch?v=3AoSZ6N3uQk
 ![People siting](project_images/ico-people.jpg?raw=true "People sitting inside")
 ![Icosahedron on dancefloor](project_images/ico-red-white.jpg?raw=true "Icosahedron on dancefloor")
 ![Man standing in light](project_images/ico-orange.jpg?raw=true "Man standing in light")
-![People around](project_images/ico-AUX.jpg "People around")
+![People around](project_images/ico-AUX.jpg?raw=true "People around")
 
 ## Conclusion
-Working on this project I've spent the third part of the time Googling, I didn't have anybody near who could answer my questions, I didn't know how to use OpenGL or what kind of technologies to use. I was searching, reading and searching again, aggregating knowledge and technologies in my head. It took me about half of a year on researching and learning. Google Search was one of the main instruments for creating Icosahedron. Xperia Z with Andriod was used for additional OSC control. Don't think that the full potential of the idea was realised. The club wasn't the best location for installation, too much additional light outside the object and the audience concentrated on music. Small amount of time didn't offer me callibrate everything and explore available possibilities, the installation lived only for 12 hours while the party was going on.
+While i was working on this project I've spent the third part of the time googling, I didn't have anybody near who could answer my questions, I didn't know how to use OpenGL or what kind of technologies to use. I was searching, reading and searching again, aggregating knowledge and technologies in my head. It took me about half of a year on researching and learning. Google Search was one of the main instruments for creating Icosahedron. Xperia Z with Andriod was used for additional OSC control. Don't think that the full potential of the idea was realised. The club wasn't the best location for installation, too much additional light outside the object and the audience concentrated on music. Small amount of time didn't offer me calibrate everything and explore available possibilities, the installation lived only for 12 hours while the party was going on.
 
 ## Further development
-Place Icosahedron in the dark space where only the object itself produces light.
-Advanced interaction between the visitors and the virtual objects with feedback in the form of light and sound.
+Place Icosahedron in the dark room where only the object produces light.
+Advanced interaction between the visitors and the virtual objects with feedback in the form of light and sound - make object react and response like a living being.
 Few microphones to listen to the environment.
 Additional sound design for Icosahedrons virtual events.
 All this will provide full immersion of the audience into the place where virtual space crosses reality.
