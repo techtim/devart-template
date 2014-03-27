@@ -72,7 +72,7 @@ On the Friday we had to order additional plastic strips to glue them to the comp
 
 On image you can see that light don't fill the entire surface of Plexiglass because of plastic strips inside.
 
-So on the Saturday, we connected all needed communications and tested everything once again, then glued Plexiglass over the top. After that we closed all electronics in the lower side of icosahedron, and made kind of podium inside. We have finished it at 10 pm and I had two hours to polish scenes and test audio input.
+So on the Saturday, we connected all the needed communications and tested everything once again, then glued Plexiglass over the top. After that we closed all electronics in the lower side of icosahedron, and made kind of podium inside. We have finished it at 10 pm and I had two hours to polish scenes and test audio input.
 
 ![Connection RPI and power supplies](../project_images/connecting-rpi.jpg "Connection RPI and power supplies")
 
