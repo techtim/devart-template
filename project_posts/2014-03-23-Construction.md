@@ -23,16 +23,16 @@ const ofVec2f icoGrabSides[] = {
     ofVec2f(5, 1),
     ofVec2f(1, 6),
     ofVec2f(6, 2),
-	ofVec2f(2, 3),
-	ofVec2f(3, 0),
+    ofVec2f(2, 3),
+    ofVec2f(3, 0),
     ofVec2f(0, 4), // 10 sides
     
-	ofVec2f(1, 10),
-	ofVec2f(10, 9),
-	ofVec2f(9, 5),
-	ofVec2f(5, 4),
-	ofVec2f(4, 3),
-	ofVec2f(3, 7),
+    ofVec2f(1, 10),
+    ofVec2f(10, 9),
+    ofVec2f(9, 5),
+    ofVec2f(5, 4),
+    ofVec2f(4, 3),
+    ofVec2f(3, 7),
     ofVec2f(7, 6),
     ofVec2f(6, 10),
     ofVec2f(10,5), // 5 drop to 10
@@ -71,11 +71,10 @@ http://youtu.be/DTPLMKVu_6U
 On the Friday we had to order additional plastic strips to glue them to the composite material and then glue plexiglass over the top. They were ready in the evening and we spent all night gluing them on the composit. LED strips were glued after plastic strips and been connected.
 
 On image you can see that light don't fill the entire surface of Plexiglass because of plastic strips inside.
+![Vertex insight view](../project_images/ico-vert-white.jpg "Vertex insight view")
 
 So on the Saturday, we connected all the needed communications and tested everything once again, then glued Plexiglass over the top. After that we closed all electronics in the lower side of icosahedron, and made kind of podium inside. We have finished it at 10 pm and I had two hours to polish scenes and test audio input.
 
 ![Connection RPI and power supplies](../project_images/connecting-rpi.jpg "Connection RPI and power supplies")
-
-![Vertex insight view](../project_images/ico-vert-white.jpg "Vertex insight view")
 
 
