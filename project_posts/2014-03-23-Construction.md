@@ -1,14 +1,15 @@
-## Construction
-
 This was the most exciting and the hardest part. All parts of project was produced and tested separately a week before the event. Parts was brought on location only on Monday night because of the clubs schedule of events. So we had got time to construct everything till the Saturday night.
 
+## Tuesday
 On the Tuesday morning we started to built. It took around 14 hours to built aluminium frame. Five men were rolling frame around the dancefloor to push edges inside vertices using weight of the object. Sad that there ain't no video, it was really fun. Each edge was fixed with screws after pushing. Connecting of the last edge was the most exciting part.
 
 ![Construction](../project_images/construct1.jpg "Construction")
 ![Construction](../project_images/construct2.jpg "Construction")
 
+## Wednesday
 Mounting of composite material started the next day. All LED strips were tested once again. We have finished mounting composite material at the late night.
 
+## Thursday
 On the Thursday I started to connect strips according to the connection map. I decided to use 3 Raspberry Pi for easy routing and for increasing speed margin.
 ![Connections and routing map of electronic parts](../project_images/icoLEDMap.jpeg "Connections and routing map of electronic parts")
 
@@ -68,11 +69,13 @@ const ofVec3f icoVerts[] = {
 
 http://youtu.be/DTPLMKVu_6U
 
+## Friday
 On the Friday we had to order additional plastic strips to glue them to the composite material and then glue plexiglass over the top. They were ready in the evening and we spent all night gluing them on the composit. LED strips were glued after plastic strips and been connected.
 
 On image you can see that light don't fill the entire surface of Plexiglass because of plastic strips inside.
 ![Vertex insight view](../project_images/ico-vert-white.jpg "Vertex insight view")
 
+## Saturday
 So on the Saturday, we connected all the needed communications and tested everything once again, then glued Plexiglass over the top. After that we closed all electronics in the lower side of icosahedron, and made kind of podium inside. We have finished it at 10 pm and I had two hours to polish scenes and test audio input.
 
 ![Connection RPI and power supplies](../project_images/connecting-rpi.jpg "Connection RPI and power supplies")
